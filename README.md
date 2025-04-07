@@ -7,7 +7,7 @@ A minimal, clean, and interactive **Typing Speed Tester** built using **HTML, CS
 ## 🚀 Features
 
 - Random paragraph generation for typing
-- Real-time:
+- Real-time :
   - **WPM (Words Per Minute)**
   - **CPM (Characters Per Minute)**
   - **Mistake counter**
