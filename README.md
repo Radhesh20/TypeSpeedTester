@@ -28,7 +28,7 @@ Here’s what the app looks like:
 
 ## 🌐 Live Demo
 
-🔗 [Check it out on GitHub Pages](https://your-username.github.io/typing-speed-tester)
+🔗 [Check it out on GitHub Pages](https://radhesh20.github.io/TypeSpeedTester/)
 
 ---
 
